@@ -1,0 +1,9 @@
+PROJECT(P2_COMMAND)
+
+SET(PARAM 'this is param')
+SET(SRC main.c fun.h fun.c)
+
+MESSAGE(STATUS 'PARAM :' ${PARAM})
+MESSAGE(STATUS 'SRC:' ${SRC})
+
+ADD_EXECUTABLE(fun ${SRC})
