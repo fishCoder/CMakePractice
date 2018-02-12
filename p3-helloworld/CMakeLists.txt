@@ -1,4 +1,6 @@
 PROJECT(HELLO) 
+
+#添加子目录 并在该目录下自动寻找CMakeLists.txt 运行
 ADD_SUBDIRECTORY(src bin)
 
 #EXECUTABLE_OUTPUT_PATH 常量变量 输出可执行路径
