@@ -1,6 +1,6 @@
 # CMake 极简入门
 
->本文根据《[cmake实践.pdf](./cmake实践.pdf)》写的并简化一些内容 
+>本文根据《[cmake实践.pdf](./cmake实践.pdf)》整理并简化一些内容 
 
 #### [项目地址](https://github.com/fishCoder/CMakePractice)
 
