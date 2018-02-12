@@ -2,11 +2,12 @@
 
 >本文根据《[cmake实践.pdf](./cmake实践.pdf)》写的并简化一些内容 
 
-#####[项目地址](https://github.com/fishCoder/CMakePractice)
+#### [项目地址](https://github.com/fishCoder/CMakePractice)
 
 ******
 
->p1 [hello world](./p1-hello)
+>p1 [最简单的hello world](./p1-hello)
+
 
 文件结构(其他均为cmake生成的文件)
 
@@ -391,7 +392,9 @@ ENDFOREACH(VAR)
 >p7 [使用FIND_PACKAGE查找模块](./p7-find-module)
 
 CMakeLists.txt	
+
 build/		
+
 src/CMakeLists.txt	main.c
 
 ******
